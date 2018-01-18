@@ -1,0 +1,5 @@
+name: dylanz/hello
+version: 0.0.1
+runtime: java
+path: /hello
+max_concurrency: 1
